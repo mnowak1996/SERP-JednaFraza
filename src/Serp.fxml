@@ -10,12 +10,12 @@
 <VBox alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" spacing="20.0" styleClass="v-box" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Serp">
    <children>
       <Label text="Podaj frazę" />
-      <TextField fx:id="textFraza" alignment="CENTER" promptText="fraza" text="chwytak do zlomu">
+      <TextField fx:id="textFraza" alignment="CENTER" promptText="fraza" text="bmi opis">
          <VBox.margin>
             <Insets left="80.0" right="80.0" />
          </VBox.margin></TextField>
       <Label text="Podaj domenę" />
-      <TextField fx:id="textDomena" alignment="CENTER" promptText="domena" text="kinshofer.com.pl">
+      <TextField fx:id="textDomena" alignment="CENTER" promptText="domena" text="nowakmichal-javaprogramming.pl">
          <VBox.margin>
             <Insets left="80.0" right="80.0" />
          </VBox.margin></TextField>
